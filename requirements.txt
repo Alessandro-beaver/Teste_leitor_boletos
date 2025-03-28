@@ -5,3 +5,5 @@ pdf2image
 pillow
 pandas
 openpyxl
+python-poppler
+pdf2image
